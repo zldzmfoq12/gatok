@@ -31,6 +31,7 @@ title: Setup-Box PITA
 ## 3D 모델링
 ![디자인1](https://github.com/zldzmfoq12/zldzmfoq12.github.io/blob/master/images/%EB%AA%A8%EB%8D%B8%EB%A7%813.PNG?raw=true)
 ![디자인2](https://github.com/zldzmfoq12/zldzmfoq12.github.io/blob/master/images/%EB%AA%A8%EB%8D%B8%EB%A7%814.PNG?raw=true)
+![디자인3](https://github.com/zldzmfoq12/zldzmfoq12.github.io/blob/master/images/%EB%AA%A8%EB%8D%B8%EB%A7%815.PNG?raw=true)
 # 제작
 ## 3D 프린팅 관련 이미지
 ###### 전체적인 모델링
