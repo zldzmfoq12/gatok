@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Setup Box PITA
+title: Setup-Box PITA
 ---
 # 제품요구사항명세서
 ## 요구사항분석
 + 공용보상금에 관련한 저작권법의 개정으로 인해 소형점포를 위한 서비스의 필요성을 느낌
-+ 음악재생용 pc마련이 곤란한 소형점포를 위해 저렴한 제품을 출시 할 필요설을 느낌
++ 음악재생용 pc마련이 곤란한 소형점포를 위해 저렴한 제품을 출시 할 필요성을 느낌
 ## 개념적 설계
 + 독립형 뮤직 셋톱박스에 대한 뮤직 스토리지 서버와 클라이언트로 구성된 MVP를 개발 
 + 뮤직 허그와 라디오의 개념을 활용하여 서버를 생성하여 노래를 재생하고 이를 클라이언트가 일정한     사용료를 내고 공유가능
@@ -21,18 +21,28 @@ title: Setup Box PITA
 + while true문을 사용하여 노래를 계속 재생시킴
 + if절을 활용하여 버튼을 누르면 버튼 이벤트 실행
 
-#코드
+# 코드
+## 서버 구현 코드
+[깃허브 주소](https://github.com/zldzmfoq12/zldzmfoq12.github.io/blob/master/final.py)
 
-[깃허브 주소](http://github.com/zldzmfoq12/2017013190-)
+## 로컬 구현 코드
+[깃허브 주소](https://github.com/zldzmfoq12/zldzmfoq12.github.io/blob/master/local4.py)
 # 디자인
 ## 3D 모델링
-![](http://)
+![디자인1](https://github.com/zldzmfoq12/zldzmfoq12.github.io/blob/master/images/%EB%AA%A8%EB%8D%B8%EB%A7%813.PNG?raw=true)
+![디자인2](https://github.com/zldzmfoq12/zldzmfoq12.github.io/blob/master/images/%EB%AA%A8%EB%8D%B8%EB%A7%814.PNG?raw=true)
 # 제작
 ## 3D 프린팅 관련 이미지
-케이스 본체
-[케이스 본체](https://drive.google.com/open?id=1VtcE5ARmzHchou-dYxlXVYtMR76Z6jSL)
-케이스 뚜껑
-[케이스 뚜껑](https://drive.google.com/open?id=1-5HJb7LS2lW5aK4_9Dkke7F-4YmLwJyt)
+###### 전체적인 모델링
+![모델링](https://github.com/zldzmfoq12/zldzmfoq12.github.io/blob/master/images/%EB%94%94%EC%9E%90%EC%9D%B81.PNG?raw=true)
+###### 뚜껑 모델링
+![뚜껑 모델링](https://github.com/zldzmfoq12/zldzmfoq12.github.io/blob/master/images/%EB%9A%9C%EA%BB%91%20%EB%AA%A8%EB%8D%B8%EB%A7%81.PNG?raw=true)
+![뚜껑 모델링2](https://github.com/zldzmfoq12/zldzmfoq12.github.io/blob/master/images/%EB%9A%9C%EA%BB%91%20%EB%AA%A8%EB%8D%B8%EB%A7%812.PNG?raw=true)
+###### 본체 모델링
+![본체 모델링1](https://github.com/zldzmfoq12/zldzmfoq12.github.io/blob/master/images/%EB%B3%B8%EC%B2%B4%20%EB%AA%A8%EB%8D%B8%EB%A7%81.PNG?raw=true)
+![본체 모델링2](https://github.com/zldzmfoq12/zldzmfoq12.github.io/blob/master/images/%EB%B3%B8%EC%B2%B4%20%EB%AA%A8%EB%8D%B8%EB%A7%813.PNG?raw=true)
+###### 현실 속 예상 모습
+![현실](https://github.com/zldzmfoq12/zldzmfoq12.github.io/blob/master/images/%EB%B3%B8%EC%B2%B4%EB%AA%A8%EB%8D%B8%EB%A7%812.jpg?raw=true)
 # 데모
 ##### in 코딩
 <iframe width="854" height="480" src="https://www.youtube.com/embed/O5Tso9rf7Yg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
@@ -47,13 +57,13 @@ title: Setup Box PITA
 [영상 링크](http://drive.google.com/file/d/1sa9wysD4j8Yd2UAZaslkLR25RcSd1DEp/view?usp=sharing)
 
 ##### 발표 영상1
-<iframe width="100%" height="360" src="https://drive.google.com/file/d/1BeynLDFvi7hL3BD_ppiUs8XJsTPm7T-i/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/yjnWtIf1uxQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 [영상 링크](http://drive.google.com/file/d/1BeynLDFvi7hL3BD_ppiUs8XJsTPm7T-i/view?usp=sharing)
 
 ##### 발표 영상2
-<iframe width="100%" height="360" src="https://drive.google.com/file/d/1I-HpcxCCJ5QTuU5uS5H80oQuQ_JcW05A/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/ACZ_aHcRhOE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 [영상 링크](http://drive.google.com/file/d/1I-HpcxCCJ5QTuU5uS5H80oQuQ_JcW05A/view?usp=sharing)
 
 ##### 발표 영상3
-<iframe width="100%" height="360" src="https://drive.google.com/file/d/1Mp-6mnz4VBJJSyKxF0AAtrw1KhOea8bW/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/UYAqkPps-IE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 [영상 링크](http://drive.google.com/file/d/1Mp-6mnz4VBJJSyKxF0AAtrw1KhOea8bW/view?usp=sharing)
