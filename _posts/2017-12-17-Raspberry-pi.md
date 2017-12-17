@@ -26,10 +26,7 @@ title: Setup Box PITA
 [깃허브 주소](http://github.com/zldzmfoq12/2017013190-)
 # 디자인
 ## 3D 모델링
-케이스 본체
-[케이스 본체](https://drive.google.com/open?id=1io6TjpFCdtiF2PVTPx_hea0qidO-ZMDK)
-케이스 뚜껑
-[케이스 뚜껑](https://drive.google.com/open?id=1WRFHQ1Zo23Xtlb82EqJWviPbZl2_rI4s)
+![](http://)
 # 제작
 ## 3D 프린팅 관련 이미지
 케이스 본체
@@ -42,11 +39,11 @@ title: Setup Box PITA
 [영상 링크](https://youtu.be/O5Tso9rf7Yg)
 
 ##### in 케이스 제작
-<iframe width="100%" height="360" src="https://drive.google.com/file/d/1cV2RT-1sB_X4MGgu3--olx46Gp4m-OPT/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/NX991LjEQ_U" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 [영상 링크](http://drive.google.com/file/d/1cV2RT-1sB_X4MGgu3--olx46Gp4m-OPT/view?usp=sharing)
 
 ##### in 라이노 디자인
-<iframe width="100%" height="360" src="https://drive.google.com/file/d/1sa9wysD4j8Yd2UAZaslkLR25RcSd1DEp/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/VHl3ixYbDjE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 [영상 링크](http://drive.google.com/file/d/1sa9wysD4j8Yd2UAZaslkLR25RcSd1DEp/view?usp=sharing)
 
 ##### 발표 영상1
