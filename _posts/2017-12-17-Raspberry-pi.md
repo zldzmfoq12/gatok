@@ -39,18 +39,24 @@ title: Setup Box PITA
 # 데모
 ##### in 코딩
 <iframe width="100%" height="360" src="https://youtu.be/O5Tso9rf7Yg" frameborder="0" allowfullscreen></iframe>
+[영상 링크](https://youtu.be/O5Tso9rf7Yg)
 
 ##### in 케이스 제작
 <iframe width="100%" height="360" src="https://drive.google.com/file/d/1cV2RT-1sB_X4MGgu3--olx46Gp4m-OPT/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
+[영상 링크](http://drive.google.com/file/d/1cV2RT-1sB_X4MGgu3--olx46Gp4m-OPT/view?usp=sharing)
 
 ##### in 라이노 디자인
 <iframe width="100%" height="360" src="https://drive.google.com/file/d/1sa9wysD4j8Yd2UAZaslkLR25RcSd1DEp/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
+[영상 링크](http://drive.google.com/file/d/1sa9wysD4j8Yd2UAZaslkLR25RcSd1DEp/view?usp=sharing)
 
 ##### 발표 영상1
 <iframe width="100%" height="360" src="https://drive.google.com/file/d/1BeynLDFvi7hL3BD_ppiUs8XJsTPm7T-i/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
+[영상 링크](http://drive.google.com/file/d/1BeynLDFvi7hL3BD_ppiUs8XJsTPm7T-i/view?usp=sharing)
 
 ##### 발표 영상2
 <iframe width="100%" height="360" src="https://drive.google.com/file/d/1I-HpcxCCJ5QTuU5uS5H80oQuQ_JcW05A/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
+[영상 링크](http://drive.google.com/file/d/1I-HpcxCCJ5QTuU5uS5H80oQuQ_JcW05A/view?usp=sharing)
 
 ##### 발표 영상3
 <iframe width="100%" height="360" src="https://drive.google.com/file/d/1Mp-6mnz4VBJJSyKxF0AAtrw1KhOea8bW/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
+[영상 링크](http://drive.google.com/file/d/1Mp-6mnz4VBJJSyKxF0AAtrw1KhOea8bW/view?usp=sharing)
