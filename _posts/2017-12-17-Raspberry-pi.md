@@ -38,7 +38,7 @@ title: Setup Box PITA
 [케이스 뚜껑](https://drive.google.com/open?id=1-5HJb7LS2lW5aK4_9Dkke7F-4YmLwJyt)
 # 데모
 ##### in 코딩
-<iframe width="100%" height="360" src="https://drive.google.com/file/d/1I31p11Kj6jyZE2OawYHth9N21RbS2gM0/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="360" src="https://youtu.be/O5Tso9rf7Yg" frameborder="0" allowfullscreen></iframe>
 
 ##### in 케이스 제작
 <iframe width="100%" height="360" src="https://drive.google.com/file/d/1cV2RT-1sB_X4MGgu3--olx46Gp4m-OPT/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
