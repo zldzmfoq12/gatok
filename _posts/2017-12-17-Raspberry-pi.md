@@ -20,20 +20,22 @@ title: Setup Box PITA
 + VLC로 음악재생
 + while true문을 사용하여 노래를 계속 재생시킴
 + if절을 활용하여 버튼을 누르면 버튼 이벤트 실행
+
 #코드
+
 [깃허브 주소](http://github.com/zldzmfoq12/2017013190-)
 # 디자인
 ## 3D 모델링
 케이스 본체
-![케이스 본체](https://drive.google.com/open?id=1io6TjpFCdtiF2PVTPx_hea0qidO-ZMDK)
+[케이스 본체](https://drive.google.com/open?id=1io6TjpFCdtiF2PVTPx_hea0qidO-ZMDK)
 케이스 뚜껑
-![케이스 뚜껑](https://drive.google.com/open?id=1WRFHQ1Zo23Xtlb82EqJWviPbZl2_rI4s)
+[케이스 뚜껑](https://drive.google.com/open?id=1WRFHQ1Zo23Xtlb82EqJWviPbZl2_rI4s)
 # 제작
 ## 3D 프린팅 관련 이미지
 케이스 본체
-![케이스 본체](https://drive.google.com/open?id=1VtcE5ARmzHchou-dYxlXVYtMR76Z6jSL)
+[케이스 본체](https://drive.google.com/open?id=1VtcE5ARmzHchou-dYxlXVYtMR76Z6jSL)
 케이스 뚜껑
-![케이스 뚜껑](https://drive.google.com/open?id=1-5HJb7LS2lW5aK4_9Dkke7F-4YmLwJyt)
+[케이스 뚜껑](https://drive.google.com/open?id=1-5HJb7LS2lW5aK4_9Dkke7F-4YmLwJyt)
 # 데모
 ##### in 코딩
 <iframe width="100%" height="360" src="https://drive.google.com/file/d/1I31p11Kj6jyZE2OawYHth9N21RbS2gM0/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
