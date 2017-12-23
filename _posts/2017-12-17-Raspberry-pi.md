@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setup-Box PITA
+title: Set-Top Box PITA
 ---
 # 제품요구사항명세서
 ## 요구사항분석
