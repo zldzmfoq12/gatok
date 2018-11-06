@@ -50,33 +50,33 @@ def politicians(i, j):
         except NoSuchElementException:
             birth_text = 'null'
         birth.append(birth_text)
-        other_in = driver.find_element_by_css_selector('#printArea > div.view_con01_box > dl > dd:nth-child(4)')
-        other_text = other_in.text
-        if other_text != '출생지':
-            other_in2 = driver.find_element_by_css_selector('#printArea > div.view_con01_box > dl > dd:nth-child(6)')
-            other_text2 = other_in2.text
-            if other_text2 != '출생지':
-                try:
-                    hometown_in = driver.find_element_by_css_selector('#printArea > div.view_con01_box > dl > dd:nth-child(9)')
-                    hometown_text = hometown_in.text
-                    driver.implicitly_wait(3)
-                except NoSuchElementException:
-                    hometown_text = 'null'
-            else:
-                try:
-                    hometown_in = driver.find_element_by_css_selector('#printArea > div.view_con01_box > dl > dd:nth-child(7)')
-                    hometown_text = hometown_in.text
-                    driver.implicitly_wait(3)
-                except NoSuchElementException:
-                    hometown_text = 'null'
-        else:
-            try:
-                hometown_in = driver.find_element_by_css_selector('#printArea > div.view_con01_box > dl > dd:nth-child(5)')
-                hometown_text = hometown_in.text
-                driver.implicitly_wait(3)
-            except NoSuchElementException:
-                hometown_text = 'null'
-        hometown.append(hometown_text)
+#        other_in = driver.find_element_by_css_selector('#printArea > div.view_con01_box > dl > dd:nth-child(4)')
+ #       other_text = other_in.text
+#        if other_text != '출생지':
+#            other_in2 = driver.find_element_by_css_selector('#printArea > div.view_con01_box > dl > dd:nth-child(6)')
+#            other_text2 = other_in2.text
+ #           if other_text2 != '출생지':
+  #              try:
+   #                 hometown_in = driver.find_element_by_css_selector('#printArea > div.view_con01_box > dl > dd:nth-child(9)')
+   #                 hometown_text = hometown_in.text
+    #                driver.implicitly_wait(3)
+     #           except NoSuchElementException:
+      #              hometown_text = 'null'
+       #     else:
+        #        try:
+         #           hometown_in = driver.find_element_by_css_selector('#printArea > div.view_con01_box > dl > dd:nth-child(7)')
+          #          hometown_text = hometown_in.text
+           #         driver.implicitly_wait(3)
+            #    except NoSuchElementException:
+             #       hometown_text = 'null'
+#        else:
+ #           try:
+  #              hometown_in = driver.find_element_by_css_selector('#printArea > div.view_con01_box > dl > dd:nth-child(5)')
+   #             hometown_text = hometown_in.text
+    #            driver.implicitly_wait(3)
+     #       except NoSuchElementException:
+      #          hometown_text = 'null'
+       # hometown.append(hometown_text)
         
         party_in = driver.find_element_by_css_selector('#printArea > div:nth-child(3) > p')
         party_text = party_in.text
@@ -98,7 +98,7 @@ def politicians(i, j):
     except NoSuchElementException:
         pass
     
-for i in range(0, x): //x = count-1 of photo rows in page
+for i in range(0, x): #x = count-1 of photo rows in page
     for j in range(0, 10):
         politicians(i, j)
         time.sleep(1)
