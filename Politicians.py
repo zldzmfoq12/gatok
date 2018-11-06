@@ -85,11 +85,11 @@ def politicians(i, j):
             if party_l[i].find('18') != -1:
                 in_party = party_l[i]
         party_no = in_party[16:]
-        if '한나라' in party_no:
+        if 'party_name1' in party_no:
             party_num = 0
-        elif '민주' in party_no:
+        elif 'party_name2' in party_no:
             party_num = 1
-        elif '자유선진' in party_no:
+        elif 'party_name3' in party_no:
             party_num = 2
         else:
             party_num = 4
