@@ -20,7 +20,7 @@ def politicians(i, j):
     driver.implicitly_wait(3)
     driver.get('http://www.rokps.or.kr/profile/profile_number.asp')
     driver.find_element_by_xpath(
-    '//*[@id="content_box"]/div/div[1]/div/form/div/select/option[19]'
+    '//*[@id="content_box"]/div/div[1]/div/form/div/select/option['+(want to know election+1)+']'
     ).click()
     driver.find_element_by_xpath(
     '//*[@id="content_box"]/div/div[1]/div/form/div/span[2]/input'
@@ -42,41 +42,6 @@ def politicians(i, j):
         name.append(name_text)
         print('---'+name_text+'--- 정보 처리')
         driver.implicitly_wait(3)
-        
-        try:
-            birth_in = driver.find_element_by_css_selector('#printArea > div.view_con01_box > dl > dd:nth-child(3)')
-            birth_text = birth_in.text
-            driver.implicitly_wait(3)
-        except NoSuchElementException:
-            birth_text = 'null'
-        birth.append(birth_text)
-#        other_in = driver.find_element_by_css_selector('#printArea > div.view_con01_box > dl > dd:nth-child(4)')
- #       other_text = other_in.text
-#        if other_text != '출생지':
-#            other_in2 = driver.find_element_by_css_selector('#printArea > div.view_con01_box > dl > dd:nth-child(6)')
-#            other_text2 = other_in2.text
- #           if other_text2 != '출생지':
-  #              try:
-   #                 hometown_in = driver.find_element_by_css_selector('#printArea > div.view_con01_box > dl > dd:nth-child(9)')
-   #                 hometown_text = hometown_in.text
-    #                driver.implicitly_wait(3)
-     #           except NoSuchElementException:
-      #              hometown_text = 'null'
-       #     else:
-        #        try:
-         #           hometown_in = driver.find_element_by_css_selector('#printArea > div.view_con01_box > dl > dd:nth-child(7)')
-          #          hometown_text = hometown_in.text
-           #         driver.implicitly_wait(3)
-            #    except NoSuchElementException:
-             #       hometown_text = 'null'
-#        else:
- #           try:
-  #              hometown_in = driver.find_element_by_css_selector('#printArea > div.view_con01_box > dl > dd:nth-child(5)')
-   #             hometown_text = hometown_in.text
-    #            driver.implicitly_wait(3)
-     #       except NoSuchElementException:
-      #          hometown_text = 'null'
-       # hometown.append(hometown_text)
         
         party_in = driver.find_element_by_css_selector('#printArea > div:nth-child(3) > p')
         party_text = party_in.text
